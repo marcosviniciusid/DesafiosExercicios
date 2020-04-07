@@ -1,4 +1,4 @@
-# Exercício de Python // alterar
+# Exercício de PHP // alterar
 
 Abaixo você vai encontrar a descrição do problema a ser resolvido, dicas de como resolver e quem contribuiu com o repositório.
 
@@ -12,10 +12,10 @@ Ei! não olhe o arquivo index.php sem antes tentar resolver o problema sozinho. 
 Dicas para construir o código.
 * Use IF ou Switch. // Alterar
 * Obtenha o modulo da divisão com o operador **%** //alterar
-* [Documentação Python][doc-switch] // alterar
-* [Documentação Python][doc-mod] // alterar
+* [Documentação PHP - Switch][doc-switch] // alterar
+* [Documentação PHP - Mod][doc-mod] // alterar
 
-```php
+``` PHP
 <?php
 switch ($i) {
     case "apple":
@@ -33,8 +33,8 @@ switch ($i) {
 
 * * *
 #### Contribuidor
-* Nome Sobrenome - [Perfil GitHub][perfil] // alterar
+* Marcos Silva - [Perfil GitHub][perfil] // alterar
 
 [doc-switch]: https://www.php.net/manual/pt_BR/control-structures.switch.php
 [doc-mod]: https://www.php.net/manual/pt_BR/internals2.opcodes.mod.php
-[perfil]: https://github.com/username
+[perfil]: https://github.com/marcosviniciusid

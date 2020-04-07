@@ -1,15 +1,26 @@
-# Exercício de JavaScript
+# Exercício de JavaScript // alterar
 
-Descrição do problema. (Será postado um exercícios em breve)
+Abaixo você vai encontrar a descrição do problema a ser resolvido, dicas de como resolver e quem contribuiu com o repositório.
 
-> Ei! não olhe o arquivo script.js sem antes tentar resolver o problema. Pois ele é o seu **gabarito**.
->> Dicas para construir o código.
->> * Descrever
->> * [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+**Descreva aqui o problema para ser resolvido.** // alterar
 
-``` javascript
-alert('Hello, world!');
+* * *
+## Dicas
+
+Ei! não olhe o arquivo index.php sem antes tentar resolver o problema sozinho. Pois ele é o seu **gabarito**. Caso não faça ideia de como sair do zero, dê uma olhada no código.
+
+Dicas para construir o código.
+* Use IF ou Switch. // Alterar
+* Obtenha o modulo da divisão com o operador **%** //alterar
+* [Documentação JavaScript][doc-js] // alterar
+
+```javascript
+// alterar
 ```
 
-#### Autor
-* Nome do contribuídor - [Perfil GitHub](https://github.com/username)
+* * *
+#### Contribuidor
+* Nome Sobrenome - [Perfil GitHub][perfil]
+
+[doc-js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[perfil]: https://github.com/username
